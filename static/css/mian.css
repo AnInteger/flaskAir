@@ -1,0 +1,37 @@
+#title{
+    position: absolute;
+    width: 40%;
+    height: 10%;
+    top: 0;
+    left: 30%;
+    background: ghostwhite;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#f1{
+    position: absolute;
+    width: 15%;
+    height: 90%;
+    top: 10%;
+    left: 0;
+    background: cadetblue;
+}
+#f2{
+    position: absolute;
+    width: 85%;
+    height:  70%;
+    top: 10%;
+    left: 15%;
+    background: ghostwhite;
+}
+#f3{
+    position: absolute;
+    width: 40%;
+    height: 10%;
+    top: 0;
+    left: 30%;
+    background: ghostwhite;
+}
